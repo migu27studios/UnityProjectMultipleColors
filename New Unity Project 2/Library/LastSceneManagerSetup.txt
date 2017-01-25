@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chnaged Cube to Multiple Colors.unity
+  isLoaded: 1
+  isActive: 1
